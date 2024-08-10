@@ -1,0 +1,26 @@
+{
+    "DeckName": "Example Set",
+
+    "DeckBy": "Lastation Community",
+
+    "Truths": [
+        "What is your favorite VRC game Map?",
+        "What is your opinion of <player>?",
+        "Do you know more than <range[1-5]> people here?",
+        "Tell <player> <range[1-10]> facts about youself.",
+        "<local>, who do you like here the most?"
+        "would you fuck <player>? avatar",
+        "who do you want to fuck the most?",
+        "what would you rate <player> avatar on fuckable",
+        "<local>, who would you like to fuck the most?"
+    ],
+    "Dares": [
+        "Mute yourself until next turn.",
+        "Sit next to <player>.",
+        "Eat <range[1-10]> goldfish.",
+        "Let <player> slap you <range[1-5]> times.",
+        "fuck <player>.",
+        "eat <player> ass.",
+        "Let <player> slap your ass <range[1-5]> times."
+    ]
+}
