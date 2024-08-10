@@ -15,6 +15,6 @@
         "fuck <player> for time <range[1-10]> minutes.",
         "Let <player> fuck you for <range[1-10]> minutes.",
         "<local>, lets <player> eat their ass for <range[1-10]> minutes.",
-        "<local>, lets <player> eat their ass for <range[1-10]> minutes."
+        "<local>, remove 1 clothes for <range[1-5]> rounds."
     ]
 }
